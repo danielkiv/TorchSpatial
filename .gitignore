@@ -2,3 +2,4 @@ _build
 .gitignore
 data/*
 47020978
+pre_trained_models/
